@@ -1,8 +1,6 @@
 # Arrhenius_NLEF
 MATLAB project for material stress prediction using Arrhenius constitutive equation with nonlinear error fitting.
 
-# Arrhenius_NLEF
-
 ## Introduction
 This repository, `Arrhenius_NLEF`, is dedicated to the implementation and exploration of the Arrhenius constitutive equation for material stress prediction, integrating a nonlinear error-fitting approach. Developed using MATLAB, the project aims to provide an accurate and efficient way to predict material behavior under various conditions.
 
