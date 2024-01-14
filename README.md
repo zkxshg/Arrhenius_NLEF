@@ -36,7 +36,4 @@ Contributions to the `Arrhenius_NLEF` project are welcome. Please feel free to f
 
 
 ## Acknowledgments
-- Mention any collaborators, advisors, or institutions that provided assistance or data for this project.
-- Any external resources or libraries used in the project.
-- Any inspiration or acknowledgment you wish to provide.
-```
+
